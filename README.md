@@ -38,6 +38,7 @@ Todos sabemos que os acidentes de trânsito no Brasil é um problema social há 
 
 <h2>Instalar e Executar a Aplicação</h2>
 
-- `Passo 1`: Fazer o download da aplicação através deste link [aplicação_faircar](https://github.com/ingoreichertjr/car_predictions/blob/main/Modelo_Preditivo.ipynb);
+- `Passo 1`: Fazer o download da aplicação através deste link  [aplicação_EDA_PRF](https://github.com/ingoreichertjr/car_accdents/EDA_PRF_Acidentes_2022.ipynb);
+;
 - `Passo 2`: Abrr a aplicação com Jupyter Notebook, Google Colab ou software similar;
 - `Passo 3`: Ir no menu superior na opção "Kernel", e clicar em "Restart & Run All" ou ir executando o projeto em etapas através do comando "shift+enter"; 
