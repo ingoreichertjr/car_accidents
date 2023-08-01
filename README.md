@@ -14,7 +14,7 @@ Todos sabemos que os acidentes de trânsito no Brasil é um problema social há 
 
 <h2>Funcionalidades do Projeto</h2>
 
-- `Funcionalidade 1`: Responder a ;
+- `Funcionalidade 1`: Responder a 15 perguntas de negócio relacionadas ao tema;
 - `Funcionalidade 2`: Levantar as rodovias federais que mais ocorreram acidentes e mortes no ano de 2022;
 - `Funcionalidade 3`: Levantar as características do acidentes nas rodovias federais brasileiras no ano de 2022;
 
@@ -30,6 +30,7 @@ Todos sabemos que os acidentes de trânsito no Brasil é um problema social há 
 ![images](https://github.com/ingoreichertjr/car_predictions/assets/80931224/2afb9ba5-90ad-4d42-8caa-bb51b7de31a6)
 ![download](https://github.com/ingoreichertjr/car_predictions/assets/80931224/21f9a4a6-290c-49f6-b3b5-9ab20227ade7)
 ![download](https://github.com/ingoreichertjr/car_predictions/assets/80931224/0344e332-ad4d-46a0-b9c1-f1d7f3e00980)
+![download](https://github.com/ingoreichertjr/car_accidents/assets/80931224/40ccc284-d52b-4372-a799-639d9a9b19d3)
 
 
 &nbsp;
