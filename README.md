@@ -1,4 +1,10 @@
 <h1 align="center"> Car Accidents </h1>
 
-![alt text](file:///home/ingo/Downloads/acidente-de-via-com-carros-esmagados.jpg)
+<p align="center">
+  <img src="file:///home/ingo/Downloads/acidente-de-via-com-carros-esmagados.jpg
+" width="350" title="hover text">
+  <img src="file:///home/ingo/Downloads/acidente-de-via-com-carros-esmagados.jpg
+" width="350" alt="accessibility text">
+</p>
 
+file:///home/ingo/Downloads/acidente-de-via-com-carros-esmagados.jpg
