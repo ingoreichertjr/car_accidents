@@ -1,4 +1,4 @@
-<h1 align="center"> Car Accidents </h1>
+<h1 align="center"> Cars Accidents </h1>
 
 <div align="center">
   
